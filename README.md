@@ -4,7 +4,7 @@
 ```/Users/name/Documents/signing.sh```  or  ```ce /Users/name/Documents/```+```./signing.sh```
 
 
-#按照提示跑
+#按照终端提示跑
 
 
 #成功显示
